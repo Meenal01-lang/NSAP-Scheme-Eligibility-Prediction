@@ -98,8 +98,8 @@ The model demonstrates strong generalization and high confidence in scheme class
 ## Author
 
 **Meenal**  
-B.TECH Student, Jaipur engineering college and research centre
-IBM SkillsBuild Cloud & AI Intern – 2025 Cohort (15July - 7 August) 
+B.TECH Student, Jaipur engineering college and research centre,
+IBM SkillsBuild Cloud & AI Intern – 2025 Cohort (15 July - 7 August) 
 
 📧 meenalrao4567@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/meenal-rao-a68b88284/)

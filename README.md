@@ -97,12 +97,12 @@ The model demonstrates strong generalization and high confidence in scheme class
 
 ## Author
 
-**Swati Upadhyay**  
-BCA Student, Vaugh Institute of Agriculture Engineering and Technology  
-IBM SkillsBuild Cloud & AI Intern – 2025 Cohort  
+**Meenal**  
+B.TECH Student, Jaipur engineering college and research centre
+IBM SkillsBuild Cloud & AI Intern – 2025 Cohort (15July - 7 August) 
 
-📧 uswati1123@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/swati-upadhyay-b042241a4/)
+📧 meenalrao4567@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/meenal-rao-a68b88284/)
 
 ---
 
